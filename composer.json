@@ -25,12 +25,12 @@
         "ext-json": "*",
         "ext-mbstring": "*",
         "guzzlehttp/guzzle": "^6.2",
-		"aspose/storage-sdk-php": "1.0.*",
-        "friendsofphp/php-cs-fixer": "~1.12"
+	"aspose/storage-sdk-php": "1.0.*"
     },
     "require-dev": {
         "squizlabs/php_codesniffer": "3.*",
-        "phpunit/phpunit": "^4.8"
+        "phpunit/phpunit": "^4.8",
+        "friendsofphp/php-cs-fixer": "~1.12"
     },
 	"autoload": {
         "psr-0": {
